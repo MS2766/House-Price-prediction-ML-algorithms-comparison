@@ -1,4 +1,4 @@
-# Machine Learning Project
+MACHINE LEARNING PROJECT
 
 ## Overview
 This project implements various machine learning models for regression analysis, including:
